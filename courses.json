@@ -256,39 +256,46 @@
         "percentage": "10%",
         "shortName": "PC1",
         "name": "PC1 - Práctica Calificada 1",
-        "score": "12.50",
-        "hasInfo": true
-      },
-      {
-        "percentage": "25%",
-        "shortName": "TP1",
-        "name": "Trabajo Parcial 1",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "25%",
-        "shortName": "TP1",
-        "name": "Trabajo Parcial 1",
-        "score": "20.00",
+        "score": "13.50",
         "hasInfo": true
       },
       {
         "percentage": "15%",
-        "shortName": "TB1",
-        "name": "TB1 - Trabajo 1",
-        "score": "20.00",
+        "shortName": "TP1",
+        "name": "Trabajo 1",
+        "score": "14.00",
         "hasInfo": true
       },
       {
-        "percentage": "30%",
-        "shortName": "TF1",
-        "name": "TF1 - Trabajo Final 1",
+        "percentage": "15%",
+        "shortName": "EA1",
+        "name": "EA1 - Evaluación Parcial 1",
+        "score": "15.50",
+        "hasInfo": true
+      },
+      {
+        "percentage": "20%",
+        "shortName": "EB1",
+        "name": "EB - Evaluación Final 1",
+        "score": "-",
+        "hasInfo": false
+      },
+      {
+        "percentage": "10%",
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "-",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "PC2",
+        "name": "TB2 - Trabajo 2",
         "score": "-",
         "hasInfo": false
       }
     ],
-    "formula": "10% (LB1) + 10% (DD1) + 15% (PC1) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 10% (LB2) + 15% (EB1)",
+    "formula": "15% (EA1) + 15% (DD1) + 10% (PC1) + 15% (TB1) + 15% (EA1) + 20% (EB1) + 10% (PC2) + 15% (TB2)",
     "average": "-"
   }
 ]
