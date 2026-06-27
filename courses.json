@@ -26,7 +26,7 @@
         "percentage": "25%",
         "shortName": "DD2",
         "name": "DD2 - Evaluación De Desempeño 2",
-        "score": "-",
+        "score": "16",
         "hasInfo": true
       },
       {
@@ -40,7 +40,7 @@
         "percentage": "30%",
         "shortName": "ZB1",
         "name": "ZB1 - Exposición Final 1",
-        "score": "-",
+        "score": "16",
         "hasInfo": true
       }
     ],
@@ -49,7 +49,7 @@
   },
   {
     "name": "Algoritmos",
-    "tag": "VIRTUAL",
+    "tag": "PRESENCIAL",
     "code": "1ACC0215",
     "absences": 5,
     "teachers": [
@@ -72,10 +72,10 @@
       },
       {
         "percentage": "10%",
-        "shortName": "LB1",
-        "name": "LB1 - Práctica De Laboratorio 1",
+        "shortName": "PC1",
+        "name": "PC1 - Práctica Calificada 1",
         "score": "8.00",
-        "hasInfo": false
+        "hasInfo": true
       },
       {
         "percentage": "10%",
@@ -88,39 +88,32 @@
         "percentage": "10%",
         "shortName": "EA1",
         "name": "EA1 - Evaluación Parcial 1",
-        "score": "18.50",
+        "score": "13.50",
         "hasInfo": true
       },
       {
-        "percentage": "15%",
+        "percentage": "25%",
         "shortName": "EB1",
         "name": "EB1 - Evaluación Final 1",
         "score": "-",
-        "hasInfo": true
+        "hasInfo": false
       },
       {
         "percentage": "15%",
-        "shortName": "PC1",
-        "name": "PC1 - Práctica Calificada 1",
-        "score": "20.00",
-        "hasInfo": true
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "-",
+        "hasInfo": false
       },
       {
         "percentage": "10%",
-        "shortName": "LB2",
-        "name": "LB2 - Práctica De Laboratorio 2",
-        "score": "10.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "20%",
         "shortName": "TB2",
         "name": "TB2 - Trabajo 2",
-        "score": "20.00",
-        "hasInfo": true
+        "score": "-",
+        "hasInfo": false
       }
     ],
-    "formula": "10% (LB1) + 10% (DD1) + 15% (PC1) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 10% (LB2) + 15% (EB1)",
+    "formula": "10% (PC1) + 10% (DD1) + 15% (PC2) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 25% (EB1)",
     "average": "-"
   },
   {
