@@ -54,11 +54,11 @@
     "absences": 5,
     "teachers": [
       {
-        "name": "SONCCO ALVAREZ, JOSE LUIS",
+        "name": "Soncco Alvarez, Jose Luis",
         "email": "jose.soncco@upc.edu.pe"
       },
       {
-        "name": "SONCCO ALVAREZ, JOSE LUIS",
+        "name": "Soncco Alvarez, Jose Luis",
         "email": "jose.soncco@upc.edu.pe"
       }
     ],
@@ -117,18 +117,14 @@
     "average": "-"
   },
   {
-    "name": "ETICA Y CIUDADANIA",
+    "name": "Ética y Ciudadania",
     "tag": "VIRTUAL",
     "code": "1ACC0215",
     "absences": 5,
     "teachers": [
       {
-        "name": "CASTILLO GUTIERREZ, GIANCARLO",
+        "name": "Castillo Guiterrez, Giancarlo",
         "email": "pchugiac@upc.edu.pe"
-      },
-      {
-        "name": "SONCCO ALVAREZ, JOSE LUIS",
-        "email": "jose.soncco@upc.edu.pe"
       }
     ],
     "gradesDetail": [
@@ -179,23 +175,78 @@
     "average": "-"
   },
   {
-    "name": "ORGANIZACION Y DIRECCION DE EMPRESAS",
+    "name": "Organización y Dirección de Empresas",
     "tag": "VIRTUAL",
     "code": "1ACC0215",
     "absences": 5,
     "teachers": [
       {
-        "name": "SONCCO ALVAREZ, JOSE LUIS",
-        "email": "jose.soncco@upc.edu.pe"
+        "name": "Morales Guitierrez, Lesly Gisselle",
+        "email": "pcadlmor@upc.edu.pe"
       },
       {
-        "name": "SONCCO ALVAREZ, JOSE LUIS",
-        "email": "jose.soncco@upc.edu.pe"
+        "name": "Morales Guitierrez, Lesly Gisselle",
+        "email": "pcadlmor@upc.edu.pe"
       }
     ],
     "gradesDetail": [
       {
-        "percentage": "10%",
+        "percentage": "15%",
+        "shortName": "PC1",
+        "name": "PC1 - Práctica Calificada 1",
+        "score": "18",
+        "hasInfo": true
+      },
+      {
+        "percentage": "15%",
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "-",
+        "hasInfo": false
+      },
+      {
+        "percentage": "25%",
+        "shortName": "TP1",
+        "name": "Trabajo Parcial 1",
+        "score": "20.00",
+        "hasInfo": true
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TB1",
+        "name": "TB1 - Trabajo 1",
+        "score": "20.00",
+        "hasInfo": true
+      },
+      {
+        "percentage": "30%",
+        "shortName": "TF1",
+        "name": "TF1 - Trabajo Final 1",
+        "score": "-",
+        "hasInfo": false
+      }
+    ],
+    "formula": "15% (PC1) + 25% (TP1) + 15% (TB1) + 30% (TB2) + 15% (PC2)",
+    "average": "-"
+  },
+  {
+    "name": "Diseño y Patrones de Software",
+    "tag": "PRESENCIAL",
+    "code": "1ACC0215",
+    "absences": 5,
+    "teachers": [
+      {
+        "name": "Vera Olivera, David Carlos",
+        "email": "david.vera@upc.edu.pe"
+      },
+      {
+        "name": "Vera Olivera, David Carlos",
+        "email": "david.vera@upc.edu.pe"
+      }
+    ],
+    "gradesDetail": [
+      {
+        "percentage": "15%",
         "shortName": "DD1",
         "name": "DD1 - Evaluación De Desempeño 1",
         "score": "-",
@@ -203,52 +254,38 @@
       },
       {
         "percentage": "10%",
-        "shortName": "LB1",
-        "name": "LB1 - Práctica De Laboratorio 1",
-        "score": "8.00",
-        "hasInfo": false
-      },
-      {
-        "percentage": "10%",
-        "shortName": "TB1",
-        "name": "TB1 - Trabajo 1",
-        "score": "15.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
-        "shortName": "EA1",
-        "name": "EA1 - Evaluación Parcial 1",
-        "score": "18.50",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "EB1",
-        "name": "EB1 - Evaluación Final 1",
-        "score": "-",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
         "shortName": "PC1",
         "name": "PC1 - Práctica Calificada 1",
+        "score": "12.50",
+        "hasInfo": true
+      },
+      {
+        "percentage": "25%",
+        "shortName": "TP1",
+        "name": "Trabajo Parcial 1",
         "score": "20.00",
         "hasInfo": true
       },
       {
-        "percentage": "10%",
-        "shortName": "LB2",
-        "name": "LB2 - Práctica De Laboratorio 2",
-        "score": "10.00",
+        "percentage": "25%",
+        "shortName": "TP1",
+        "name": "Trabajo Parcial 1",
+        "score": "20.00",
         "hasInfo": true
       },
       {
-        "percentage": "20%",
-        "shortName": "TB2",
-        "name": "TB2 - Trabajo 2",
+        "percentage": "15%",
+        "shortName": "TB1",
+        "name": "TB1 - Trabajo 1",
         "score": "20.00",
         "hasInfo": true
+      },
+      {
+        "percentage": "30%",
+        "shortName": "TF1",
+        "name": "TF1 - Trabajo Final 1",
+        "score": "-",
+        "hasInfo": false
       }
     ],
     "formula": "10% (LB1) + 10% (DD1) + 15% (PC1) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 10% (LB2) + 15% (EB1)",
