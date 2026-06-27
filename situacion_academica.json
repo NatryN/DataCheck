@@ -1,0 +1,84 @@
+{
+  "carrera": "Ingeniería de Software",
+  "facultad": "Fac. Ingenieria",
+  "promedioGlobal": "14.1",
+  "mallaActual": "202202",
+  "periodo": "202610",
+  "modalidad": "PRESENCIAL",
+  "secciones": [
+    {
+      "titulo": "RESUMEN DE CUMPLIENTO ASIGNATURAS OBLIGATORIAS",
+      "graficos": [
+        {
+          "porcentaje": "20%",
+          "fraccion": 0.20,
+          "titulo": "Asignaturas",
+          "leyenda": [
+            { "tipo": "cumplido", "texto": "Cumplido: 8" },
+            { "tipo": "pendiente", "texto": "A cumplir: 40" }
+          ]
+        },
+        {
+          "porcentaje": "21.76%",
+          "fraccion": 0.2176,
+          "titulo": "Créditos",
+          "leyenda": [
+            { "tipo": "cumplido", "texto": "Cumplido: 37" },
+            { "tipo": "pendiente", "texto": "A cumplir: 170" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "RESUMEN CUMPLIMIENTO DE CRÉDITOS ELECTIVOS",
+      "graficos": [
+        {
+          "porcentaje": "0%",
+          "fraccion": 0.0,
+          "titulo": "Créditos",
+          "leyenda": [
+            { "tipo": "cumplido", "texto": "Cumplido: 0" },
+            { "tipo": "pendiente", "texto": "Mímino a cumplir: 30" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "RESUMEN CUMPLIMIENTO DE MODALIDAD DE ESTUDIO",
+      "graficos": [
+        {
+          "porcentaje": "18.5%",
+          "fraccion": 0.185,
+          "titulo": "Créditos asignaturas obligatorias",
+          "leyenda": [
+            { "tipo": "cumplido", "texto": "Cumplido: 37" },
+            { "tipo": "pendiente", "texto": "A cumplir: 200" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "REQUISITOS DE EGRESO",
+      "graficos": [
+        {
+          "porcentaje": "0%",
+          "fraccion": 0.0,
+          "titulo": "Nivel de inglés (0-5)",
+          "leyenda": [
+            { "tipo": "cumplido", "texto": "Nivel actual: -" },
+            { "tipo": "pendiente", "texto": "A cumplir: 5" }
+          ]
+        }
+      ],
+      "nota": "Los créditos extraacadémicos y prácticas pre profesionales aplican solo para Pregrado."
+    }
+  ],
+  "informacionAdicional": {
+    "titulo": "INFORMACIÓN ADICIONAL",
+    "items": [
+      { "texto": "Total de créditos aprobados: ", "valor": "37" },
+      { "texto": "Número de créditos obligatorios pendientes: ", "valor": "133" },
+      { "texto": "Número mínimo de créditos electivos por llevar: ", "valor": "30" }
+    ]
+  }
+}
