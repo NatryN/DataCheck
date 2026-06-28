@@ -1,0 +1,18 @@
+{
+  "promedioGlobal": "14.10",
+  "carrera": "Ingeniería de Software",
+  "mallaActual": "202202",
+  "periodo": "202601",
+  "creditos": {
+    "matriculados": "11",
+    "aprobados": "5"
+  },
+  "ponderado": {
+    "actual": "12.27",
+    "acumulado": "14.10"
+  },
+  "merito": {
+    "orden": "-",
+    "pertenece": "-"
+  }
+}
