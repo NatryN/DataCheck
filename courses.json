@@ -19,14 +19,14 @@
         "percentage": "15%",
         "shortName": "DD1",
         "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "14",
+        "score": "14.00",
         "hasInfo": false
       },
       {
         "percentage": "25%",
         "shortName": "DD2",
         "name": "DD2 - Evaluación De Desempeño 2",
-        "score": "16",
+        "score": "16.00",
         "hasInfo": true
       },
       {
@@ -40,7 +40,7 @@
         "percentage": "30%",
         "shortName": "ZB1",
         "name": "ZB1 - Exposición Final 1",
-        "score": "16",
+        "score": "16.00",
         "hasInfo": true
       }
     ],
