@@ -20,7 +20,7 @@
         "shortName": "DD1",
         "name": "DD1 - Evaluación De Desempeño 1",
         "score": "14.00",
-        "hasInfo": false
+        "hasInfo": true
       },
       {
         "percentage": "25%",
@@ -33,7 +33,7 @@
         "percentage": "30%",
         "shortName": "DD3",
         "name": "DD3 - Evaluación De Desempeño 3",
-        "score": "-",
+        "score": "17.00",
         "hasInfo": true
       },
       {
@@ -45,7 +45,7 @@
       }
     ],
     "formula": "15% (DD1) + 25% (DD2) + 30% (ZB1) + 30% (DD3)",
-    "average": "-"
+    "average": "16.00"
   },
   {
     "name": "Algoritmos y Estructura de Datos",
@@ -67,8 +67,8 @@
         "percentage": "10%",
         "shortName": "DD1",
         "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "15.00",
+        "hasInfo": true
       },
       {
         "percentage": "10%",
@@ -95,26 +95,26 @@
         "percentage": "25%",
         "shortName": "EB1",
         "name": "EB1 - Evaluación Final 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "16.00",
+        "hasInfo": true
       },
       {
         "percentage": "15%",
         "shortName": "PC2",
         "name": "PC2 - Práctica Calificada 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "16.00",
+        "hasInfo": true
       },
       {
-        "percentage": "10%",
+        "percentage": "20%",
         "shortName": "TB2",
         "name": "TB2 - Trabajo 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "15.00",
+        "hasInfo": true
       }
     ],
     "formula": "10% (PC1) + 10% (DD1) + 15% (PC2) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 25% (EB1)",
-    "average": "-"
+    "average": "14.55"
   },
   {
     "name": "Ética y Ciudadania",
@@ -139,8 +139,8 @@
         "percentage": "15%",
         "shortName": "CL2",
         "name": "CL2 - Control De Lectura 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "20.00",
+        "hasInfo": true
       },
       {
         "percentage": "20%",
@@ -160,19 +160,19 @@
         "percentage": "10%",
         "shortName": "DD2",
         "name": "DD2 - Evaluación De Desempeño 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "20.00",
+        "hasInfo": true
       },
       {
         "percentage": "30%",
         "shortName": "TF1",
         "name": "TF1 - Trabajo Final 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "20.00",
+        "hasInfo": true
       }
     ],
     "formula": "15% (CL1) + 10% (DD1) + 15% (CL2) + 10% (DD2) + 20% (TB1) + 30% (TF1)",
-    "average": "-"
+    "average": "19.70"
   },
   {
     "name": "Organización y Dirección de Empresas",
@@ -201,8 +201,8 @@
         "percentage": "15%",
         "shortName": "PC2",
         "name": "PC2 - Práctica Calificada 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "20.00",
+        "hasInfo": true
       },
       {
         "percentage": "25%",
@@ -222,11 +222,11 @@
         "percentage": "30%",
         "shortName": "TF1",
         "name": "TF1 - Trabajo Final 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "16.00",
+        "hasInfo": true
       }
     ],
-    "formula": "15% (PC1) + 25% (TP1) + 15% (TB1) + 30% (TB2) + 15% (PC2)",
+    "formula": "15% (PC1) + 25% (TP1) + 15% (TB1) + 30% (TF1) + 15% (PC2)",
     "average": "-"
   },
   {
@@ -249,8 +249,8 @@
         "percentage": "15%",
         "shortName": "DD1",
         "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "16.00",
+        "hasInfo": true
       },
       {
         "percentage": "10%",
@@ -261,7 +261,7 @@
       },
       {
         "percentage": "15%",
-        "shortName": "TP1",
+        "shortName": "TB1",
         "name": "Trabajo 1",
         "score": "14.00",
         "hasInfo": true
@@ -277,25 +277,25 @@
         "percentage": "20%",
         "shortName": "EB1",
         "name": "EB - Evaluación Final 1",
-        "score": "-",
-        "hasInfo": false
+        "score": "14.50",
+        "hasInfo": true
       },
       {
         "percentage": "10%",
         "shortName": "PC2",
         "name": "PC2 - Práctica Calificada 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "20.00",
+        "hasInfo": true
       },
       {
         "percentage": "15%",
-        "shortName": "PC2",
+        "shortName": "TB2",
         "name": "TB2 - Trabajo 2",
-        "score": "-",
-        "hasInfo": false
+        "score": "16.00",
+        "hasInfo": true
       }
     ],
-    "formula": "15% (EA1) + 15% (DD1) + 10% (PC1) + 15% (TB1) + 15% (EA1) + 20% (EB1) + 10% (PC2) + 15% (TB2)",
-    "average": "-"
+    "formula": "15% (DD1) + 10% (PC1) + 15% (TB1) + 15% (EA1) + 20% (EB1) + 10% (PC2) + 15% (TB2)",
+    "average": "15.48"
   }
 ]
