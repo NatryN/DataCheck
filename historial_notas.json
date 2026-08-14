@@ -1,18 +1,128 @@
 {
-  "promedioGlobal": "14.10",
+  "promedioGlobal": "14.39",
   "carrera": "Ingeniería de Software",
   "mallaActual": "202202",
-  "periodo": "202601",
-  "creditos": {
-    "matriculados": "11",
-    "aprobados": "5"
-  },
-  "ponderado": {
-    "actual": "12.27",
-    "acumulado": "14.10"
-  },
-  "merito": {
-    "orden": "-",
-    "pertenece": "-"
-  }
+  "periodos": [
+    {
+      "periodo": "202610",
+      "cursos": [
+        {
+          "nombre": "Ética y Ciudadanía",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AHU0548",
+          "nivelEduc": "01",
+          "creditos": "2",
+          "numeroVeces": "-",
+          "promedioFinal": "17.00",
+          "estado": "APROBADO"
+        }
+      ],
+      "creditos": {
+        "matriculados": "20",
+        "aprobados": "20"
+      },
+      "ponderado": {
+        "actual": "14.80",
+        "acumulado": "14.39"
+      },
+      "merito": {
+        "orden": "1829 de 2532",
+        "pertenece": "-"
+      }
+    },
+    {
+      "periodo": "202601",
+      "cursos": [
+        {
+          "nombre": "Algoritmos",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0215",
+          "nivelEduc": "02",
+          "creditos": "5",
+          "numeroVeces": "-",
+          "promedioFinal": "15.00",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Matemática Discreta",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AMA0265",
+          "nivelEduc": "03",
+          "creditos": "6",
+          "numeroVeces": "1",
+          "promedioFinal": "10.00",
+          "estado": "DESAPROBADO"
+        }
+      ],
+      "creditos": {
+        "matriculados": "11",
+        "aprobados": "5"
+      },
+      "ponderado": {
+        "actual": "12.27",
+        "acumulado": "14.10"
+      },
+      "merito": {
+        "orden": "-",
+        "pertenece": "-"
+      }
+    },
+    {
+      "periodo": "202520",
+      "cursos": [
+        {
+          "nombre": "Seminario de Investigación Académica I",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AHU0159",
+          "nivelEduc": "02",
+          "creditos": "2",
+          "numeroVeces": "-",
+          "promedioFinal": "13.00",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Comprensión y Producción de Lenguaje II",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AHU0626",
+          "nivelEduc": "02",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "14.00",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Introducción a los Algoritmos",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0126",
+          "nivelEduc": "01",
+          "creditos": "6",
+          "numeroVeces": "-",
+          "promedioFinal": "15.00",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Física II",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AMA0462",
+          "nivelEduc": "04",
+          "creditos": "6",
+          "numeroVeces": "-",
+          "promedioFinal": "17.00",
+          "estado": "APROBADO"
+        }
+      ],
+      "creditos": {
+        "matriculados": "18",
+        "aprobados": "18"
+      },
+      "ponderado": {
+        "actual": "15.22",
+        "acumulado": "15.22"
+      },
+      "merito": {
+        "orden": "1473 de 2328",
+        "pertenece": "-"
+      }
+    }
+  ]
 }
