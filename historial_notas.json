@@ -7,13 +7,53 @@
       "periodo": "202610",
       "cursos": [
         {
-          "nombre": "Ética y Ciudadanía",
+          "nombre": "Matemática Discreta",
           "modulo": "MÓDULO REGULAR",
-          "codigo": "1AHU0548",
+          "codigo": "1AMA0265",
+          "nivelEduc": "03",
+          "creditos": "6",
+          "numeroVeces": "-",
+          "promedioFinal": "16.00",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Algoritmos y Estructura de Datos",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0215",
+          "nivelEduc": "02",
+          "creditos": "5",
+          "numeroVeces": "-",
+          "promedioFinal": "14.55",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Ética y Ciudadania",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0215",
           "nivelEduc": "01",
           "creditos": "2",
           "numeroVeces": "-",
-          "promedioFinal": "17.00",
+          "promedioFinal": "19.70",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Organización y Dirección de Empresas",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0215",
+          "nivelEduc": "-",
+          "creditos": "3",
+          "numeroVeces": "-",
+          "promedioFinal": "18.50",
+          "estado": "APROBADO"
+        },
+        {
+          "nombre": "Diseño y Patrones de Software",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ACC0215",
+          "nivelEduc": "-",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "15.48",
           "estado": "APROBADO"
         }
       ],
@@ -44,14 +84,14 @@
           "estado": "APROBADO"
         },
         {
-          "nombre": "Matemática Discreta",
+          "nombre": "Matemática Computacional",
           "modulo": "MÓDULO REGULAR",
-          "codigo": "1AMA0265",
+          "codigo": "1AMA026D",
           "nivelEduc": "03",
           "creditos": "6",
-          "numeroVeces": "1",
-          "promedioFinal": "10.00",
-          "estado": "DESAPROBADO"
+          "numeroVeces": "-",
+          "promedioFinal": "12.50",
+          "estado": "APROBADO"
         }
       ],
       "creditos": {
