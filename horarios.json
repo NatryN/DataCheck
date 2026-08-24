@@ -1,75 +1,85 @@
 {
-  "periodo": "202610",
+  "periodo": "202620",
   "feriados": [
-    { "fecha": "2026-06-29", "nombre": "SAN PEDRO Y SAN PABLO" }
+    { "fecha": "2026-08-30", "nombre": "SANTA ROSA DE LIMA" },
+    { "fecha": "2026-10-08", "nombre": "COMBATE DE ANGAMOS" },
+    { "fecha": "2026-11-01", "nombre": "DÍA DE TODOS LOS SANTOS" }
   ],
   "cursos": [
     {
-      "name": "Matemática Discreta",
-      "code": "1AMA0265",
-      "nrc": "1116",
+      "name": "Creatividad y Liderazgo (Ing)",
+      "code": "1AHU0612",
+      "nrc": "318",
       "campus": "SMI",
       "status": "INICIADO",
-      "inicioFin": "Del 30-03-26 al 11-07-26",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
       "sesiones": [
-        { "dia": "Monday", "inicio": "13:00", "fin": "14:59", "lugar": "San Miguel-SC808", "modalidad": "PRESENCIAL" },
-        { "dia": "Thursday", "inicio": "13:00", "fin": "14:59", "lugar": "San Miguel-SC808", "modalidad": "PRESENCIAL" }
+        { "dia": "Monday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-SC704", "modalidad": "PRESENCIAL" }
       ],
       "examenes": []
     },
     {
-      "name": "Diseño y Patrones de Software",
-      "code": "1ASI0142",
-      "nrc": "1120",
+      "name": "Arquitectura de Computadoras",
+      "code": "1ASI0725",
+      "nrc": "15673",
       "campus": "SMI",
       "status": "INICIADO",
-      "inicioFin": "Del 30-03-26 al 13-07-26",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
       "sesiones": [
-        { "dia": "Monday", "inicio": "20:00", "fin": "22:59", "lugar": "San Miguel-SB708", "modalidad": "PRESENCIAL" },
-        { "dia": "Wednesday", "inicio": "20:00", "fin": "22:59", "lugar": "San Miguel-SB708", "modalidad": "PRESENCIAL" }
+        { "dia": "Monday", "inicio": "11:00", "fin": "12:59", "lugar": "San Miguel-SC606", "modalidad": "PRESENCIAL" },
+        { "dia": "Saturday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-SB512", "modalidad": "PRESENCIAL" }
       ],
       "examenes": []
     },
     {
-      "name": "Organización y Dirección de Empresas",
-      "code": "1ACC0301",
-      "nrc": "1122",
+      "name": "Diseño de Base de Datos",
+      "code": "1ASI0400",
+      "nrc": "8966",
+      "campus": "SMI",
+      "status": "INICIADO",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
+      "sesiones": [
+        { "dia": "Monday", "inicio": "21:00", "fin": "22:59", "lugar": "San Miguel-SB606", "modalidad": "PRESENCIAL" },
+        { "dia": "Saturday", "inicio": "11:00", "fin": "12:59", "lugar": "San Miguel-SB606", "modalidad": "PRESENCIAL" }
+      ],
+      "examenes": []
+    },
+    {
+      "name": "Matemática Computacional",
+      "code": "1AMA0475",
+      "nrc": "2915",
       "campus": "MON",
       "status": "INICIADO",
-      "inicioFin": "Del 30-03-26 al 16-07-26",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
       "sesiones": [
-        { "dia": "Monday", "inicio": "10:00", "fin": "11:59", "lugar": "Monterrico - A distancia", "modalidad": "A_DISTANCIA" },
-        { "dia": "Wednesday", "inicio": "08:00", "fin": "09:59", "lugar": "San Miguel-SB708", "modalidad": "PRESENCIAL" }
+        { "dia": "Tuesday", "inicio": "13:00", "fin": "14:59", "lugar": "Monterrico - A distancia", "modalidad": "A_DISTANCIA" }
       ],
       "examenes": []
     },
     {
-      "name": "Ética y Ciudadanía",
-      "code": "1ACC0188",
-      "nrc": "1115",
+      "name": "Especificación y Análisis de Requerimientos",
+      "code": "1ASI0397",
+      "nrc": "16928",
       "campus": "SMI",
       "status": "INICIADO",
-      "inicioFin": "Del 30-03-26 al 19-07-26",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
       "sesiones": [
-        { "dia": "Saturday", "inicio": "15:00", "fin": "16:59", "lugar": "San Miguel-SB803", "modalidad": "PRESENCIAL" }
+        { "dia": "Wednesday", "inicio": "15:00", "fin": "16:59", "lugar": "San Miguel-SB308", "modalidad": "PRESENCIAL" }
       ],
       "examenes": []
     },
     {
-      "name": "Algoritmos y Estructuras de Datos",
-      "code": "1ACC0182",
-      "nrc": "1118",
-      "campus": "SMI",
+      "name": "ISC Arte y Diseño Moderno y Contemporáneo",
+      "code": "1ADG0281",
+      "nrc": "17672",
+      "campus": "VIR",
       "status": "INICIADO",
-      "inicioFin": "Del 30-03-26 al 16-07-26",
+      "inicioFin": "Del 24-08-26 al 06-12-26",
+      "horarioLibre": true,
       "sesiones": [
-        { "dia": "Tuesday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-SB511", "modalidad": "PRESENCIAL" },
-        { "dia": "Thursday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-SB508", "modalidad": "PRESENCIAL" }
+        { "dia": "-", "inicio": "-", "fin": "-", "lugar": "Virtual asíncrono", "modalidad": "VIRTUAL_ASINCRONO" }
       ],
-      "examenes": [
-        { "titulo": "Examen 21/05/2026", "dia": "Thursday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-SB508" },
-        { "titulo": "Examen 16/07/2026", "dia": "Thursday", "inicio": "07:00", "fin": "08:59", "lugar": "San Miguel-Examen a distancia" }
-      ]
+      "examenes": []
     }
   ]
 }
