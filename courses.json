@@ -1,301 +1,361 @@
 [
   {
-    "name": "Matemática Discreta",
+    "name": "Creatividad y Liderazgo (Ing)",
     "tag": "SEMIPRESENCIAL",
-    "code": "1AMA0265",
-    "absences": 1,
+    "code": "1AHU0612",
+    "credits": "3",
+    "absences": 0,
     "teachers": [
       {
-        "name": "Padilla Luna, Wuili Cristian",
-        "email": "pcmawpad@upc.edu.pe"
+        "name": "Dioses Matute, Claudia Johana",
+        "email": "pchucdio@upc.edu.pe"
       },
       {
-        "name": "Sueros Zarate, Jonathan Abrahan",
-        "email": "pcmajsue@upc.edu.pe"
+        "name": "Medina Gamero, Aldo Rafael",
+        "email": "pcheamed@upc.edu.pe"
       }
     ],
     "gradesDetail": [
       {
         "percentage": "15%",
-        "shortName": "DD1",
-        "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "14.00",
-        "hasInfo": true
+        "shortName": "TB1",
+        "name": "TB1 - Trabajo 1",
+        "semana": "4",
+        "score": "",
+        "hasInfo": false
       },
       {
         "percentage": "25%",
-        "shortName": "DD2",
-        "name": "DD2 - Evaluación De Desempeño 2",
-        "score": "16.00",
-        "hasInfo": true
+        "shortName": "TP1",
+        "name": "TP1 - Trabajo Parcial 1",
+        "semana": "8",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TB2",
+        "name": "TB2 - Trabajo 2",
+        "semana": "13",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "PA1",
+        "name": "PA1 - Participación 1",
+        "semana": "15",
+        "score": "",
+        "hasInfo": false
       },
       {
         "percentage": "30%",
+        "shortName": "TF1",
+        "name": "TF1 - Trabajo Final 1",
+        "semana": "16",
+        "score": "",
+        "hasInfo": false
+      }
+    ],
+    "formula": "15% (TB1) + 15% (TB2) + 25% (TP1) + 30% (TF1) + 15% (PA1)",
+    "average": ""
+  },
+  {
+    "name": "Arquitectura de Computadoras",
+    "tag": "PRESENCIAL",
+    "code": "1ASI0725",
+    "credits": "4",
+    "absences": 0,
+    "teachers": [
+      {
+        "name": "Leon Baca, Marco Antonio",
+        "email": "pcsimleo@upc.edu.pe"
+      }
+    ],
+    "gradesDetail": [
+      {
+        "percentage": "10%",
+        "shortName": "PC1",
+        "name": "PC1 - Práctica Calificada 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TB1",
+        "name": "TB1 - Trabajo Parcial 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "EA1",
+        "name": "EA1 - Evaluación Parcial 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "10%",
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TB2",
+        "name": "TB2 - Trabajo Final 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "20%",
+        "shortName": "EB1",
+        "name": "EB1 - Evaluación Final 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "DD1",
+        "name": "DD1 - Evaluación De Desempeño 1",
+        "score": "",
+        "hasInfo": false
+      }
+    ],
+    "formula": "10% (PC1) + 15% (TB1) + 15% (EA1) + 10% (PC2) + 15% (TB2) + 20% (EB1) + 15% (DD1)",
+    "average": ""
+  },
+  {
+    "name": "Diseño de Base de Datos",
+    "tag": "PRESENCIAL",
+    "code": "1ASI0400",
+    "credits": "4",
+    "absences": 0,
+    "teachers": [
+      {
+        "name": "Saenz Egusquiza, Felicita Delia",
+        "email": "pcsifsae@upc.edu.pe"
+      }
+    ],
+    "gradesDetail": [
+      {
+        "percentage": "10%",
+        "shortName": "PC1",
+        "name": "PC1 - Práctica Calificada 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TP1",
+        "name": "TP1 - Trabajo Parcial 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "EA1",
+        "name": "EA1 - Evaluación Parcial 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "10%",
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "DD1",
+        "name": "DD1 - Evaluación De Desempeño 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TF1",
+        "name": "TF1 - Trabajo Final 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "20%",
+        "shortName": "EB1",
+        "name": "EB1 - Evaluación Final 1",
+        "score": "",
+        "hasInfo": false
+      }
+    ],
+    "formula": "15% (TP1) + 15% (EA1) + 15% (TF1) + 20% (EB1) + 15% (DD1) + 10% (PC1) + 10% (PC2)",
+    "average": ""
+  },
+  {
+    "name": "Matemática Computacional",
+    "tag": "VIRTUAL",
+    "code": "1AMA0475",
+    "credits": "4",
+    "absences": 0,
+    "teachers": [
+      {
+        "name": "Sueros Zarate, Jonathan Abrahan",
+        "email": "pcmajsue@upc.edu.pe"
+      },
+      {
+        "name": "Calderon Melendez, Luis Enrique",
+        "email": "pcmaluca@upc.edu.pe"
+      }
+    ],
+    "gradesDetail": [
+      {
+        "percentage": "13%",
+        "shortName": "DD1",
+        "name": "DD1 - Evaluación De Desempeño 1",
+        "semana": "5",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "17%",
+        "shortName": "DD2",
+        "name": "DD2 - Evaluación De Desempeño 2",
+        "semana": "11",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TB1",
+        "name": "TB1 - Trabajo 1",
+        "semana": "12",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "25%",
         "shortName": "DD3",
         "name": "DD3 - Evaluación De Desempeño 3",
-        "score": "17.00",
-        "hasInfo": true
+        "semana": "14",
+        "score": "",
+        "hasInfo": false
       },
       {
         "percentage": "30%",
         "shortName": "ZB1",
         "name": "ZB1 - Exposición Final 1",
-        "score": "16.00",
-        "hasInfo": true
+        "semana": "16",
+        "score": "",
+        "hasInfo": false
       }
     ],
-    "formula": "15% (DD1) + 25% (DD2) + 30% (ZB1) + 30% (DD3)",
-    "average": "16.00"
+    "formula": "13% (DD1) + 17% (DD2) + 25% (DD3) + 15% (TB1) + 30% (ZB1)",
+    "average": ""
   },
   {
-    "name": "Algoritmos y Estructura de Datos",
-    "tag": "PRESENCIAL",
-    "code": "1ACC0215",
-    "absences": 5,
+    "name": "Especificación y Análisis de Requerimientos",
+    "tag": "SEMIPRESENCIAL",
+    "code": "1ASI0397",
+    "credits": "3",
+    "absences": 0,
     "teachers": [
       {
-        "name": "Soncco Alvarez, Jose Luis",
-        "email": "jose.soncco@upc.edu.pe"
+        "name": "Sanchez Portugal, Jimmy Enrique",
+        "email": "jimmy.sanchez@upc.edu.pe"
       },
       {
-        "name": "Soncco Alvarez, Jose Luis",
-        "email": "jose.soncco@upc.edu.pe"
+        "name": "Morales Alba, Lincoln Jeampier",
+        "email": "pcsilimo@upc.edu.pe"
       }
     ],
     "gradesDetail": [
       {
         "percentage": "10%",
-        "shortName": "DD1",
-        "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "15.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
         "shortName": "PC1",
         "name": "PC1 - Práctica Calificada 1",
-        "score": "8.00",
-        "hasInfo": true
+        "score": "",
+        "hasInfo": false
       },
       {
-        "percentage": "10%",
-        "shortName": "TB1",
-        "name": "TB1 - Trabajo 1",
-        "score": "15.00",
-        "hasInfo": true
+        "percentage": "15%",
+        "shortName": "TP1",
+        "name": "TP1 - Trabajo Parcial 1",
+        "score": "",
+        "hasInfo": false
       },
       {
-        "percentage": "10%",
+        "percentage": "15%",
         "shortName": "EA1",
         "name": "EA1 - Evaluación Parcial 1",
-        "score": "13.50",
-        "hasInfo": true
+        "score": "",
+        "hasInfo": false
       },
       {
-        "percentage": "25%",
+        "percentage": "10%",
+        "shortName": "PC2",
+        "name": "PC2 - Práctica Calificada 2",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "DD1",
+        "name": "DD1 - Evaluación De Desempeño 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "15%",
+        "shortName": "TF1",
+        "name": "TF1 - Trabajo Final 1",
+        "score": "",
+        "hasInfo": false
+      },
+      {
+        "percentage": "20%",
         "shortName": "EB1",
         "name": "EB1 - Evaluación Final 1",
-        "score": "16.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "PC2",
-        "name": "PC2 - Práctica Calificada 2",
-        "score": "16.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "20%",
-        "shortName": "TB2",
-        "name": "TB2 - Trabajo 2",
-        "score": "15.00",
-        "hasInfo": true
+        "score": "",
+        "hasInfo": false
       }
     ],
-    "formula": "10% (PC1) + 10% (DD1) + 15% (PC2) + 10% (TB1) + 10% (EA1) + 20% (TB2) + 25% (EB1)",
-    "average": "14.55"
+    "formula": "15% (TP1) + 15% (EA1) + 15% (TF1) + 20% (EB1) + 10% (PC1) + 10% (PC2) + 15% (DD1)",
+    "average": ""
   },
   {
-    "name": "Ética y Ciudadania",
-    "tag": "PRESENCIAL",
-    "code": "1ACC0215",
-    "absences": 5,
-    "teachers": [
-      {
-        "name": "Castillo Guiterrez, Giancarlo",
-        "email": "pchugiac@upc.edu.pe"
-      }
-    ],
-    "gradesDetail": [
-      {
-        "percentage": "15%",
-        "shortName": "CL1",
-        "name": "CL1 - Control De Lectura 1",
-        "score": "18.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "CL2",
-        "name": "CL2 - Control De Lectura 2",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "20%",
-        "shortName": "TB1",
-        "name": "TB1 - Trabajo 1",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
-        "shortName": "DD1",
-        "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
-        "shortName": "DD2",
-        "name": "DD2 - Evaluación De Desempeño 2",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "30%",
-        "shortName": "TF1",
-        "name": "TF1 - Trabajo Final 1",
-        "score": "20.00",
-        "hasInfo": true
-      }
-    ],
-    "formula": "15% (CL1) + 10% (DD1) + 15% (CL2) + 10% (DD2) + 20% (TB1) + 30% (TF1)",
-    "average": "19.70"
-  },
-  {
-    "name": "Organización y Dirección de Empresas",
+    "name": "ISC Arte y Diseño Moderno y Contemporáneo",
     "tag": "VIRTUAL",
-    "code": "1ACC0215",
-    "absences": 5,
+    "code": "1ADG0281",
+    "credits": "4",
+    "absences": 0,
     "teachers": [
       {
-        "name": "Morales Guitierrez, Lesly Gisselle",
-        "email": "pcadlmor@upc.edu.pe"
-      },
-      {
-        "name": "Morales Guitierrez, Lesly Gisselle",
-        "email": "pcadlmor@upc.edu.pe"
+        "name": "Guerrero Zegarra, Maria Alexandra",
+        "email": "pcdgmgue@upc.edu.pe"
       }
     ],
     "gradesDetail": [
       {
-        "percentage": "15%",
-        "shortName": "PC1",
-        "name": "PC1 - Práctica Calificada 1",
-        "score": "18.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "PC2",
-        "name": "PC2 - Práctica Calificada 2",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "25%",
-        "shortName": "TP1",
-        "name": "Trabajo Parcial 1",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "TB1",
-        "name": "TB1 - Trabajo 1",
-        "score": "20.00",
-        "hasInfo": true
+        "percentage": "70%",
+        "shortName": "DD1",
+        "name": "DD1 - Evaluación De Desempeño 1",
+        "fechaLimite": "2026-11-30 18:59",
+        "observacion": "Promedio de las calificaciones finales obtenidas al aprobar los micro cursos obligatorios del curso electivo UPC (certificados en Coursera).",
+        "score": "",
+        "hasInfo": false
       },
       {
         "percentage": "30%",
         "shortName": "TF1",
         "name": "TF1 - Trabajo Final 1",
-        "score": "16.00",
-        "hasInfo": true
+        "fechaLimite": "2026-12-06 23:50",
+        "observacion": "Video expositivo según las pautas indicadas en la carpeta \"Trabajo Final\" del Aula Virtual.",
+        "score": "",
+        "hasInfo": false
       }
     ],
-    "formula": "15% (PC1) + 25% (TP1) + 15% (TB1) + 30% (TF1) + 15% (PC2)",
-    "average": "18.50"
-  },
-  {
-    "name": "Diseño y Patrones de Software",
-    "tag": "PRESENCIAL",
-    "code": "1ACC0215",
-    "absences": 5,
-    "teachers": [
-      {
-        "name": "Vera Olivera, David Carlos",
-        "email": "david.vera@upc.edu.pe"
-      },
-      {
-        "name": "Vera Olivera, David Carlos",
-        "email": "david.vera@upc.edu.pe"
-      }
-    ],
-    "gradesDetail": [
-      {
-        "percentage": "15%",
-        "shortName": "DD1",
-        "name": "DD1 - Evaluación De Desempeño 1",
-        "score": "16.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
-        "shortName": "PC1",
-        "name": "PC1 - Práctica Calificada 1",
-        "score": "13.50",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "TB1",
-        "name": "Trabajo 1",
-        "score": "14.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "EA1",
-        "name": "EA1 - Evaluación Parcial 1",
-        "score": "15.50",
-        "hasInfo": true
-      },
-      {
-        "percentage": "20%",
-        "shortName": "EB1",
-        "name": "EB - Evaluación Final 1",
-        "score": "14.50",
-        "hasInfo": true
-      },
-      {
-        "percentage": "10%",
-        "shortName": "PC2",
-        "name": "PC2 - Práctica Calificada 2",
-        "score": "20.00",
-        "hasInfo": true
-      },
-      {
-        "percentage": "15%",
-        "shortName": "TB2",
-        "name": "TB2 - Trabajo 2",
-        "score": "16.00",
-        "hasInfo": true
-      }
-    ],
-    "formula": "15% (DD1) + 10% (PC1) + 15% (TB1) + 15% (EA1) + 20% (EB1) + 10% (PC2) + 15% (TB2)",
-    "average": "15.48"
+    "formula": "70% (DD1) + 30% (TF1)",
+    "average": ""
   }
 ]
