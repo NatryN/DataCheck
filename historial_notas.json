@@ -4,6 +4,83 @@
   "mallaActual": "202202",
   "periodos": [
     {
+      "periodo": "202620",
+      "cursos": [
+        {
+          "nombre": "Creatividad y Liderazgo (Ing)",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AHU0612",
+          "nivelEduc": "-",
+          "creditos": "3",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        },
+        {
+          "nombre": "Arquitectura de Computadoras",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ASI0725",
+          "nivelEduc": "-",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        },
+        {
+          "nombre": "Diseño de Base de Datos",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ASI0400",
+          "nivelEduc": "-",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        },
+        {
+          "nombre": "Matemática Computacional",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1AMA0475",
+          "nivelEduc": "-",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        },
+        {
+          "nombre": "Especificación y Análisis de Requerimientos",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ASI0397",
+          "nivelEduc": "-",
+          "creditos": "3",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        },
+        {
+          "nombre": "ISC Arte y Diseño Moderno y Contemporáneo",
+          "modulo": "MÓDULO REGULAR",
+          "codigo": "1ADG0281",
+          "nivelEduc": "-",
+          "creditos": "4",
+          "numeroVeces": "-",
+          "promedioFinal": "-",
+          "estado": "EN CURSO"
+        }
+      ],
+      "creditos": {
+        "matriculados": "22",
+        "aprobados": "-"
+      },
+      "ponderado": {
+        "actual": "-",
+        "acumulado": "14.39"
+      },
+      "merito": {
+        "orden": "-",
+        "pertenece": "-"
+      }
+    },
+    {
       "periodo": "202610",
       "cursos": [
         {
@@ -84,7 +161,7 @@
           "estado": "APROBADO"
         },
         {
-          "nombre": "Matemática Computacional",
+          "nombre": "Introducción a la Matemática Computacional",
           "modulo": "MÓDULO REGULAR",
           "codigo": "1AMA026D",
           "nivelEduc": "03",
